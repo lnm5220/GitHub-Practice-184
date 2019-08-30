@@ -32,6 +32,8 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Leah Miller | lnm5220 | <https://lnm5220.github.io/Stat184Assignment1/> |  
+
 
 <br>
 
