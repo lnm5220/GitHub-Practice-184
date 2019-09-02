@@ -39,8 +39,7 @@
 | Nelson Huang | nelson1998  | <https://nelson1998.github.io/STAT184Assignment1/> |
 | Calvin Lien | cvl4 | <https://cvl4.github.io/STAT184Assignment1/> |
 | Angelo Kwak  | AngeloJKwak | <https://angelojkwak.github.io/STAT_184_Repo/> |
-| Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/Stat184Assignment1/> |  
-| Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/184test/> |  
+| Jeffrey Yan | JeffreYan | <https://jeffreyan.github.io/Stat184Assignment1/> |   
 | Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184> |
 | Alexis Dorneman | amd505 | <https://amd505.github.io/Stat184Assignment1/> |  
 | Zhefeng He | zhefenghe | <https://zhefenghe.github.io/readme/> |  
@@ -54,7 +53,6 @@
 | Nelson Huang | nelson1998 | <https://nelson1998.github.io/STAT184Assignment1/> |
 | Calvin Lien | cvl4 | <https://cvl4.github.io/STAT184Assignment1/> |
 | Angelo Kwak  | AngeloJKwak | <https://angelojkwak.github.io/STAT_184_Repo/> |  
-| Jeffrey Yan | JeffreyYan | <https://jeffreyan.github.io/184test/> |  
 | Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184/> |
 
 
