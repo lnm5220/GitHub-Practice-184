@@ -32,7 +32,7 @@
 |Name        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
-| Brian Dailey | bdailey15 | | <https://bdailey150.github.io/Stat184/> |
+| Brian Dailey | bdailey15 | <https://bdailey150.github.io/Stat184/> |
 | Zhengyan Yuan | zqy5133 | https://zqy5133.github.io/stat184assignment1/ |  
 | Aaron Schlegel | acs5844 | <https://acs5844.github.io/Stat184Contents/> |
 | Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
