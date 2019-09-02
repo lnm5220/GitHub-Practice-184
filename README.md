@@ -50,13 +50,8 @@
 | Feng Ding | CallMeHyo | <https://callmehyo.github.io/STAT184Assignment1-2nd-try/> |  
 | Josue Perez Gomez | jochuchemon7 | <https://jochuchemon7.github.io/GitHubAssignment/> |
 | Jaehoon Ha | gkwogns95 | <https://gkwogns95.github.io/Stat184Assignment1/> |
-| Nelson Huang | nelson1998 | <https://nelson1998.github.io/STAT184Assignment1/> |
-| Calvin Lien | cvl4 | <https://cvl4.github.io/STAT184Assignment1/> |
+
  
-
-
-
-
 <br>
 
 
