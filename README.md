@@ -32,7 +32,7 @@
 |Name        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> | 
-| Brian Dailey | bdailey15 | | <https://bdailey150.github.io/Stat184/>|
+| Brian Dailey | bdailey15 | | <https://bdailey150.github.io/Stat184/> |
 | Zhengyan Yuan | zqy5133 | https://zqy5133.github.io/stat184assignment1/ |  
 | Aaron Schlegel | acs5844 | <https://acs5844.github.io/Stat184Contents/> |
 | Ken Kalbach | kjk290 | <https://kjk290.github.io/Stat184Assignment1/> |
@@ -52,8 +52,8 @@
 | Jaehoon Ha | gkwogns95 | <https://gkwogns95.github.io/Stat184Assignment1/> |
 | Nelson Huang | nelson1998 | <https://nelson1998.github.io/STAT184Assignment1/> |
 | Calvin Lien | cvl4 | <https://cvl4.github.io/STAT184Assignment1/> |
-| Angelo Kwak  | AngeloJKwak | <https://angelojkwak.github.io/STAT_184_Repo/> |  
-| Robert Sacks | rmsacks | <https://rmsacks.github.io/stat184/> |
+ 
+
 
 
 
