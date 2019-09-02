@@ -50,8 +50,7 @@
 | Feng Ding | CallMeHyo | <https://callmehyo.github.io/STAT184Assignment1-2nd-try/> |  
 | Josue Perez Gomez | jochuchemon7 | <https://jochuchemon7.github.io/GitHubAssignment/> |
 | Jaehoon Ha | gkwogns95 | <https://gkwogns95.github.io/Stat184Assignment1/> |
-
- 
+| M. Bilal Yaseen | bilaln372 | <https://bilaln372.github.io/readme/> |
 <br>
 
 
