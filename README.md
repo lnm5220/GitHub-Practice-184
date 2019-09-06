@@ -54,7 +54,7 @@
 | M. Bilal Yaseen | bilaln372 | <https://bilaln372.github.io/readme/> |
 | Antonio Garcia | AntonioAG97| <https://antonioag97.github.io/GitHub-Practice-AG/> |
 | Leah Miller | lnm5220 | <https://lnm5220.github.io/Stat184Assignment1/> |
-
+| Vydeepthi Dhulipalla | vydeepthi| <https://vydeepthi.github.io/Stat184Assignment1/> |
 <br>
 
 
