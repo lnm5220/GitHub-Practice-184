@@ -53,7 +53,7 @@
 | Joshua Harman | jeh5747 | <https://jeh5747.github.io/Stat184-Assignment1/> |
 | M. Bilal Yaseen | bilaln372 | <https://bilaln372.github.io/readme/> |
 | Antonio Garcia | AntonioAG97| <https://antonioag97.github.io/GitHub-Practice-AG/> |
-
+| Vydeepthi Dhulipalla | vydeepthi| <https://vydeepthi.github.io/Stat184Assignment1/> |
 <br>
 
 
